@@ -6,7 +6,7 @@
 .weeklyCard{
     display: flex;
     flex-direction: column;
-    /* border: 2px solid grey ; */
+    border: 2px solid grey ;
     margin: 50px 0px ;
     padding: 20px ;
     background-color: white;
@@ -15,7 +15,7 @@
 .habitTitle{
     font-size: 20px;
     font-weight: 600;
-    color: blueviolet;
+    color: rgb(0, 132, 255);
     display: flex;
     justify-content: space-between;
 }
